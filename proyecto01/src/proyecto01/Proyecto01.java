@@ -14,7 +14,7 @@ public class Proyecto01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Sytem.out.println("Calle Paris")
+        System.out.println("Calle Paris");
     }
     
 }
